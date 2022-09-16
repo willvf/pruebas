@@ -1,7 +1,7 @@
 import random  # Importamos la librería random
 
 # variable llamada "puntaje", la que inicializamos en 0.
-puntaje = random.randint(0, 0)
+puntaje = random.randint(0, 10000)
 
 
 
